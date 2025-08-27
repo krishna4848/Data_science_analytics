@@ -1,3 +1,3 @@
 # Data_science_analytics
 
-Performing data analysis techniques on Iris ad heart disease dataset
+This project applies data analysis techniques to the Iris and Heart Disease datasets to explore patterns, relationships, and predictive insights. For the Iris dataset, the analysis focuses on classification of flower species based on petal and sepal measurements using statistical exploration and visualization. For the Heart Disease dataset, the goal is to identify key health indicators influencing the presence of cardiovascular disease through correlation analysis, feature importance evaluation, and model testing. The project demonstrates the complete workflow of data cleaning, exploratory analysis, visualization, and machine learning model application, showcasing how structured analysis can support both academic learning and real-world healthcare insights.
